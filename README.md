@@ -66,9 +66,12 @@
 
 ## 🚀 Featured Project
 
-<a href="https://github.com/livedashboardsite/edu-assist-neo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=livedashboardsite&repo=edu-assist-neo&theme=tokyonight&hide_border=false" />
+<a href="https://github.com/livedashboardsite/edu-assist">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=livedashboardsite&repo=edu-assist&theme=tokyonight&hide_border=false" />
 </a>
+
+[![Stars](https://img.shields.io/github/stars/livedashboardsite/edu-assist?style=social)](https://github.com/livedashboardsite/edu-assist/stargazers)
+[![Forks](https://img.shields.io/github/forks/livedashboardsite/edu-assist?style=social)](https://github.com/livedashboardsite/edu-assist/forks)
 
 ---
 
